@@ -1,0 +1,1 @@
+game speed set to 60
