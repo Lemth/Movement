@@ -18,4 +18,3 @@ if (current < target) {
 } else {
     return max(current-amount, target);
 }
-
