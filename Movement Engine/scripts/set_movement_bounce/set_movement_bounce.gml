@@ -1,4 +1,6 @@
-///set_movement_bounce(amount)
+/// @desc set_movement_bounce
+/// @arg amount
+
 /*
     Call this script in order to set/change
     the bounce amount of a movement entity.

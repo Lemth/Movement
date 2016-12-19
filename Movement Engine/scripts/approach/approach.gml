@@ -1,4 +1,8 @@
-///approach(current, target, amount)
+/// @desc approach
+/// @arg current
+/// @arg target
+/// @arg amount
+
 /*
     This script can be used to approach a value
     but not pass the value.

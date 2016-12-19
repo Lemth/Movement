@@ -1,4 +1,7 @@
-///add_movement_direction_acceleration(direction, acceleration);
+/// @desc add_movement_direction_acceleration
+/// @arg direction
+/// @arg acceleration
+
 /*
     This script adds a direction and acceleration
     to a movement entity. This acceleration will be relative to 

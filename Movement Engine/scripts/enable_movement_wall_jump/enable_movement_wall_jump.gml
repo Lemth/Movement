@@ -1,4 +1,10 @@
-///enable_movement_wall_jump(height, distance, jump_input, right_input, left_input)
+/// @desc enable_movement_wall_jump
+/// @arg height
+/// @arg distance
+/// @arg jump_input
+/// @arg right_input
+/// @arg left_input
+
 /*
     Call this script in order to enable platform wall
     jumping on a movement entity.

@@ -1,4 +1,8 @@
-///enable_movement_jump(height, input, release_input)
+/// @desc enable_movement_jump
+/// @arg height
+/// @arg input
+/// @arg release_input
+
 /*
     Call this script to enable platform jumping
     on a movement entity.

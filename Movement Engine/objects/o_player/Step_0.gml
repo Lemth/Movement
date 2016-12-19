@@ -1,4 +1,4 @@
-/// Move the Player
+/// @desc Move the Player
 
 // Enable platform movement actions
 enable_movement_platform_actions(.5, 4, 12, keyboard_check(vk_right), keyboard_check(vk_left), keyboard_check_pressed(vk_up), keyboard_check_released(vk_up));

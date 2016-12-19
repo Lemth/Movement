@@ -1,7 +1,7 @@
 {
     "id": "9267abc2-522d-4689-bdb7-da07ec2561b8",
     "modelName": "GMSprite",
-    "mvc": "1.1",
+    "mvc": "1.11",
     "name": "s_solid_slope",
     "For3D": false,
     "HTile": false,
@@ -10,7 +10,7 @@
     "bbox_left": 0,
     "bbox_right": 31,
     "bbox_top": 0,
-    "bboxmode": 0,
+    "bboxmode": 1,
     "colkind": 0,
     "coltolerance": 0,
     "frames": [
@@ -53,7 +53,7 @@
     ],
     "playbackSpeed": 1,
     "playbackSpeedType": 1,
-    "sepmasks": true,
+    "sepmasks": false,
     "swatchColours": null,
     "textureGroup": 0,
     "type": 0,

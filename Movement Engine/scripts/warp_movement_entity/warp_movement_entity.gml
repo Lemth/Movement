@@ -1,4 +1,7 @@
-///warp_movement_entity(xwarp, vwarp)
+/// @desc warp_movement_entity
+/// @arg xwarp
+/// @arg vwarp
+
 /*
     This script can be used to warp a movement or solid entity
     to a location while keeping that instance outside of any

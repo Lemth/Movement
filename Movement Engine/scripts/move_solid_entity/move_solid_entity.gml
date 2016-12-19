@@ -1,4 +1,6 @@
-///move_solid_entity(push_object)
+/// @desc move_solid_entity
+/// @arg push_object
+
 /*
     Use this script on moving collision objects instead of move_movement_entity.
     This script should be called in the end step event.

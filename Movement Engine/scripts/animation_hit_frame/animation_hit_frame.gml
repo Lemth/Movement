@@ -1,4 +1,6 @@
-///animation_hit_frame(frame)
+/// @desc animation_hit_frame
+/// @arg frame
+
 /*
     This script will return true if the image_index of your
     sprite hits a specific frame.

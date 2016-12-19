@@ -400,25 +400,6 @@
             }
         },
         {
-            "Key": "7aacdb57-02ec-4e3f-9f31-24c98575643f",
-            "Value": {
-                "id": "3962961b-442a-4e58-9ef8-66df877ec2b5",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "notes\\notes.yy",
-                "resourceType": "GMNotes"
-            }
-        },
-        {
             "Key": "e406019b-c6eb-471c-96c3-7520274d4fdc",
             "Value": {
                 "id": "7f167850-615c-4e11-bde9-78924e66d87a",
@@ -1331,44 +1312,6 @@
             }
         },
         {
-            "Key": "01c3cbac-77a5-458a-8b13-51e24e5da1d3",
-            "Value": {
-                "id": "a13860f7-ac69-44f7-9f28-eeb0aca2762d",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "extensions\\Movement Engine\\Movement Engine.yy",
-                "resourceType": "GMExtension"
-            }
-        },
-        {
-            "Key": "ffd4a1e6-c733-4e38-b25e-7cc75654d425",
-            "Value": {
-                "id": "7e1435cd-8a35-44f0-b958-153c2ed9251e",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "scripts\\macros\\macros.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "305a4eec-0584-4964-b3e6-18e61650fefa",
             "Value": {
                 "id": "410d90ac-406e-4398-b0b9-a4b7f3c99ac1",
@@ -1386,25 +1329,6 @@
                 "resourcePath": "rooms\\r_test\\r_test.yy",
                 "resourceType": "GMRoom"
             }
-        },
-        {
-            "Key": "081d96b9-54e1-4e6d-ad45-6009925359a3",
-            "Value": {
-                "id": "a6635493-ff57-4604-8eca-23d95ee9565b",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "notes\\compatibility_report_181216_210042042.yy",
-                "resourceType": "GMNotes"
-            }
         }
     ],
     "room_order": [
@@ -1418,15 +1342,15 @@
         "d63be240-3c7a-4f11-b144-85b208b795ae",
         "23e915b8-6891-4215-832d-7bbd852c75a8",
         "d51185a1-236a-448d-8774-e7e65c5b3576",
+        "6df9c2b8-af80-4671-bb76-f064aeb007a3",
+        "819d614a-005c-4fc6-828d-13c629916faf",
+        "664974da-c64c-4c03-863e-e82a863a9301",
         "a38f031a-5e66-4257-b530-380c4ee39e82",
         "dc73b310-6498-48a6-bd30-b6fad628e642",
         "4b8c4c28-2265-4546-94a8-0784775d869b",
         "1405eb38-d58f-42d7-a26c-5b9e321558b2",
         "208a5d94-52e0-4d84-a12e-75c91aab3057",
         "8bbe932a-ac02-43ff-9094-d5a70595ee1c",
-        "6df9c2b8-af80-4671-bb76-f064aeb007a3",
-        "819d614a-005c-4fc6-828d-13c629916faf",
-        "664974da-c64c-4c03-863e-e82a863a9301",
         "1c3b3872-1c85-4edf-bf98-ffe526c76a75",
         "af750b26-b598-4594-9de0-5a9f6f60f797",
         "b1dfb472-1cc7-44ba-92d1-02461f541a1a",
@@ -1439,8 +1363,7 @@
         "f69ab3c2-8013-45cf-a408-19471d5fc93a",
         "5cf68611-843e-49c2-82d0-60f786d5b0f9",
         "ae634460-188b-4e1a-a59c-018a7e11ef9b",
-        "405d15d9-f61f-4b79-ae3e-5f7361fba18c",
-        "ffd4a1e6-c733-4e38-b25e-7cc75654d425"
+        "405d15d9-f61f-4b79-ae3e-5f7361fba18c"
     ],
     "tutorial": ""
 }

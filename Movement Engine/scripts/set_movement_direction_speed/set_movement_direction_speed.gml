@@ -1,4 +1,7 @@
-///set_movement_direction_speed(direction, speed);
+/// @desc set_movement_direction_speed
+/// @arg direction
+/// @arg speed
+
 /*
     This script sets a direction and acceleration
     to a movement entity. This acceleration will NOT be relative to 

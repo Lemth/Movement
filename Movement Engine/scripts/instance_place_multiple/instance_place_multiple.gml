@@ -1,4 +1,8 @@
-///instance_place_multiple(x, y, instance)
+/// @desc instance_place_multiple
+/// @arg x
+/// @arg y
+/// @arg instance
+
 /*
     Works like instance_place but returns a ds_list of
     all the instances at that location.

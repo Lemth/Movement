@@ -1,4 +1,6 @@
-///set_movement_friction(amount)
+/// @desc set_movement_friction
+/// @arg amount
+
 /*
     Call this script in order to set/change
     the friction amount of a movement entity.

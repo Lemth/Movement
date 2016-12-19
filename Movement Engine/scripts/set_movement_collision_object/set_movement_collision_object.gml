@@ -1,4 +1,6 @@
-///set_movement_collision_object(object)
+/// @desc set_movement_collision_object
+/// @arg object
+
 /*
     Call this script in order to change/set the
     object that will be used for collision checking

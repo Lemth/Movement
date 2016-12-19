@@ -1,7 +1,7 @@
 {
     "id": "beefcc90-ec9b-4563-8ff6-b1fbf597869b",
     "modelName": "GMSprite",
-    "mvc": "1.1",
+    "mvc": "1.11",
     "name": "s_player_jump",
     "For3D": false,
     "HTile": false,
@@ -10,7 +10,7 @@
     "bbox_left": 2,
     "bbox_right": 28,
     "bbox_top": 2,
-    "bboxmode": 0,
+    "bboxmode": 2,
     "colkind": 1,
     "coltolerance": 0,
     "frames": [

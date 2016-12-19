@@ -1,4 +1,7 @@
-///enable_movement_air_jump(height, input)
+/// @desc enable_movement_air_jump
+/// @arg height
+/// @arg input
+
 /*
     Call this script in order to add platform double jumping
     (air jumping) to a movement entity.

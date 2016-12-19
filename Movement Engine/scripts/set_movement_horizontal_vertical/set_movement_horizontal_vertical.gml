@@ -1,4 +1,7 @@
-///set_movement_horizontal_vertical(hspeed, vspeed)
+/// @desc set_movement_horizontal_vertical
+/// @arg hspeed
+/// @arg vspeed
+
 /*
     This script sets a horizontal and/or a vertical speed
     to a movement entity. This speed will NOT be relative to 

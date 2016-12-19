@@ -1,4 +1,9 @@
-///enable_movement_platform_sprites(idle_sprite, walk_sprite, jump_sprite, walk_animation_speed)
+/// @desc enable_movement_platform_sprites
+/// @arg idle_sprite
+/// @arg walk_sprite
+/// @arg jump_sprite
+/// @arg walk_animation_speed
+
 /*
     This script can be used to set basic sprites and animations
     for a movement entity. The script is rather basic and is

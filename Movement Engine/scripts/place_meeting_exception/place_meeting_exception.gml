@@ -1,4 +1,9 @@
-///place_meeting_exception(x, y, obj, exception)
+/// @desc place_meeting_exception
+/// @arg x
+/// @arg y
+/// @arg obj
+/// @arg exception
+
 /*
     Works just like place_meeting but you can pass an exception
     instance that won't be included in the check.

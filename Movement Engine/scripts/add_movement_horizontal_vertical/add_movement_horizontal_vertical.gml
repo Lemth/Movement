@@ -1,4 +1,7 @@
-///add_movement_horizontal_vertical(hacceleration, vacceleration)
+/// @desc add_movement_horizontal_vertical
+/// @arg hacceleration
+/// @arg vacceleration
+
 /*
     This script adds a horizontal and/or a vertical acceleration
     to a movement entity. This acceleration will be relative to 

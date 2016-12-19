@@ -1,4 +1,8 @@
-///enable_movement_run_axis(acceleration, max_speed, horizontal_axis)
+/// @desc enable_movement_run_axis
+/// @arg acceleration
+/// @arg max_speed
+/// @arg horizontal_axis
+
 /*
     Call this script in order to enable horizontal
     running on a movement entity.

@@ -1,4 +1,5 @@
-///move_movement_entity()
+/// @desc move_movement_entity()
+
 /*
     This script updates the position of the movement entity
     according to its horizontal speeds and vertical speeds.

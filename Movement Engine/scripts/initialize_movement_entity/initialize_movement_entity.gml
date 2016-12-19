@@ -1,4 +1,10 @@
-///initialize_movement_entity(gravity, friction, air_resistance, bounce, collision_object)
+/// @desc initialize_movement_entity()
+/// @arg gravity
+/// @arg friction
+/// @arg air_resistance
+/// @arg bounce
+/// @arg collision_object
+
 /*
     This script is used to initialize a movement entity.
     You need to call this script in the CREATE EVENT of

@@ -1,4 +1,5 @@
-///animation_end()
+/// @desc animation_end()
+
 /*
     This script will return true if the image_index of your
     sprite hits the last frame.

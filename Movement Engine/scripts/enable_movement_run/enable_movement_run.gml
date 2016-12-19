@@ -1,4 +1,9 @@
-///enable_movement_run(acceleration, max_speed, right_input, left_input)
+/// @desc enable_movement_run()
+/// @arg acceleration
+/// @arg max_speed
+/// @arg right_input
+/// @arg left_input
+
 /*
     Call this script in order to enable horizontal
     running on a movement entity.

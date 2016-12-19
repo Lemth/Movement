@@ -1,4 +1,9 @@
-///add_movement_horizontal_vertical_maxspeed(hacceleration, vacceleration, maxhspeed, maxvspeed)
+/// @desc add_movement_horizontal_vertical_maxspeed
+/// @arg hacceleration
+/// @arg vacceleration
+/// @arg maxhspeed
+/// @arg maxvspeed
+
 /*
     This script adds a horizontal and/or a vertical acceleration
     to a movement entity. This acceleration will be relative to 
@@ -8,6 +13,7 @@
     a vertical acceleration as arguments instead of a direction and
     speed.
 */
+
 var hacc = argument0; // Horizontal acceleration
 var vacc = argument1; // Vertical acceleration
 var maxhspd = argument2; // Maximum horizontal speed
