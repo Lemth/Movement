@@ -53,7 +53,7 @@
     ],
     "playbackSpeed": 1,
     "playbackSpeedType": 1,
-    "sepmasks": false,
+    "sepmasks": true,
     "swatchColours": null,
     "textureGroup": 0,
     "type": 0,
